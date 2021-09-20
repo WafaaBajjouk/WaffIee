@@ -23,7 +23,7 @@
 <br />
 
 <br/>
-### **Languages and Technologies:**
+**Languages and Technologies:**
 
 <p float="left">
  <a href="https://www.java.com/">
@@ -73,7 +73,7 @@
 ##
 ### 💬 Find me [elsewhere on the internet]().
 
-##
+<!-- ##
 ## My activities
 
 <a href="https://github.com/Pepyn0/github-readme-stats">
@@ -86,5 +86,5 @@
 <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
-
+ -->
 <!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
