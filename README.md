@@ -68,9 +68,9 @@
    <a href="https://en.wikipedia.org/wiki/CPP">
 <img alt="Wafaa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="40">
   </a>
- <a href="https://git-scm.com/">
+<!--  <a href="https://git-scm.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
-  </a>
+  </a> -->
  <a href="https://code.visualstudio.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
@@ -86,19 +86,3 @@
 
 ##
 ### 💬 Find me [elsewhere on the internet]().
-
-<!-- ##
-## My activities
-
-<a href="https://github.com/Pepyn0/github-readme-stats">
-  <img width=450 height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Pepyn0&theme=midnight-purple&show_icons=true&bg_color=0D1117&hide_border=true" />
-</a>
-<a href="https://github.com/Pepyn0/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pepyn0&theme=midnight-purple&layout=compact&bg_color=0D1117&hide_border=true" />
-</a>
-
-<div>
-  <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</div>
- -->
-<!-- ![Snake animation](https://github.com/Pepyn0/Pepyn0/blob/output/github-contribution-grid-snake.svg) -->
