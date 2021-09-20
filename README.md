@@ -29,11 +29,17 @@
  <a href="https://www.java.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
  </a>
+  
+   <a href="https://spring.io/projects/spring-boot">
+<img alt="Wafaa" src="https://spring.io/images/spring-logo-9146a4d3298760c2e7e49595184e1975.svg/7kaq.png" width="40">
+ </a>
+  
+
  <a href="https://www.android.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/zl8i.png" width="40">
  </a>
- <a href="https://www.python.org/">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/p3jo.png" width="40">
+ <a href="https://angular.io">
+<img alt="Wafaa" src="https://angular.io/assets/images/logos/angular/logo-nav@2x.png" width="40">
  </a>
  <a href="https://en.wikipedia.org/wiki/HTML">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/iqm9.png" width="40">
@@ -50,8 +56,8 @@
  <a href="https://nodejs.org/en/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/iuw5.png" width="40">
   </a>
- <a href="https://dart.dev/">
-<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/rvwm.png" width="40">
+ <a href="https://www.typescriptlang.org">
+<img alt="Wafaa" src="https://devstickers.com/assets/img/pro/tzgi.png" width="40">
   </a>
  <a href="https://kotlinlang.org/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
