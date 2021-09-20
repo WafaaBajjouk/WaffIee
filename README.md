@@ -2,7 +2,7 @@
 ### Hi there 👋, I'm [WAFFLE](https://github.com/WaffIee) 
 
 <br/>
-
+<!-- 
 <a href="https://www.linkedin.com/in/bajjoukwafaa/">
   <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,7 +18,7 @@
 <a href="">
   <img align="left" alt="Wafaa's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
-
+ -->
 
 <br />
 
