@@ -66,7 +66,7 @@
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/g2sh.png" width="40">
   </a>
    <a href="https://en.wikipedia.org/wiki/CPP">
-<img alt="Wafaa" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="40">
+<img alt="Wafaa" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/306px-ISO_C%2B%2B_Logo.svg.png" width="40">
   </a>
  <a href="https://git-scm.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/apiv.png" width="40">
