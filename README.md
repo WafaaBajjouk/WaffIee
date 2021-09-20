@@ -1,6 +1,14 @@
 
 ### Hi there 👋, I'm [WAFFLE](https://github.com/WaffIee) 
 
+3 Years of software development experience in object oriented programming, development of Multi-Tier distributed, Enterprise applications using Java and J2EE technologies with Software Development Life Cycle. 
+
+- 🎓 I'm Studying Computer Science & Engineering 
+- 🔭 I’m currently working on Android Apps
+- 🌱 I’m currently learning JavaScript
+- 💬 Ask me about: tech and memes
+- 😄 Pronouns: she/her
+
 <br/>
 <!-- 
 <a href="https://www.linkedin.com/in/bajjoukwafaa/">
