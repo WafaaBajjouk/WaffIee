@@ -1,5 +1,5 @@
 
-### Hi there 👋, I'm [WAFFLE](https://github.com/WaffIee) 
+### Hi there 👋, I'm [WAFFLE](https://github.com/WaffIee) 👩‍💻🇲🇦
 
 3 Years of software development experience in object oriented programming, development of Multi-Tier distributed, Enterprise applications using Java and J2EE technologies with Software Development Life Cycle. 
 
