@@ -18,13 +18,14 @@
 <a href="">
   <img align="left" alt="Wafaa's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
-
-<a href="">
-  <img align="left" alt="Wafaa Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
 -->
+
+**Contact me :**
+<a href="https://github.com/WaffIee">
+  <img align="left" alt="Wafaa Twitter" width="22px" />
+</a>
 <a href="mailto:bajjouk.wafaa.12@gmail.com">
-  <img align="left" alt="Wafaa's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+  <img align="left" alt="Wafaa's Email" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
 </a>
  
 
