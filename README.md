@@ -4,8 +4,8 @@
 3 Years of software development experience in object oriented programming, development of Multi-Tier distributed, Enterprise applications using Java and J2EE technologies with Software Development Life Cycle. 
 
 - 🎓 I'm Studying Computer Science & Engineering 
-- 🔭 I’m currently working on Android Apps
-- 🌱 I’m currently learning JavaScript
+- 🔭 I’m currently working Full Stack Development : SPRINGBOOT and ANGULAR !
+- 🌱 I’m currently learning Javascript
 - 💬 Ask me about: tech and memes
 - 😄 Pronouns: she/her
 
@@ -22,11 +22,11 @@
 <a href="">
   <img align="left" alt="Wafaa Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-
-<a href="">
+-->
+<a href="mailto:bajjouk.wafaa.12@gmail.com">
   <img align="left" alt="Wafaa's Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
- -->
+ 
 
 <br />
 
