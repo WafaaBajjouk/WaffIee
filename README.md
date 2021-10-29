@@ -22,18 +22,18 @@
 
 **Contact me :**
 <a href="https://github.com/WaffIee">
-  <img align="left" alt="Wafaa Twitter" width="22px" />
+  <img align="left" alt="Wafaa Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />
 </a>
 <a href="mailto:bajjouk.wafaa.12@gmail.com">
-  <img align="left" alt="Wafaa's Email" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png"/>
+  <img align="left" alt="Wafaa's Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
  
 
 <br />
 
-<br/>
-**Languages and Technologies:**
 
+**Languages and Technologies:**
+<br/>
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
