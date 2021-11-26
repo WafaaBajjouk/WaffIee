@@ -96,4 +96,4 @@
 
 ##
 <a href="https://wafflle.netlify.app">
-### 💬 Find me [elsewhere on the internet]().</a>
+💬 Find me [elsewhere on the internet]().</a>
