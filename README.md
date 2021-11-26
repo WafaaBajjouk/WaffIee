@@ -95,4 +95,4 @@
 </p>
 
 ##
-### 💬 Find me [elsewhere on the internet]().
+### 💬 Find me [elsewhere on the internet]("https://wafflle.netlify.app").
