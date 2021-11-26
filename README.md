@@ -4,7 +4,7 @@
 3 Years of software development experience in object oriented programming, development of Multi-Tier distributed, Enterprise applications using Java and J2EE technologies with Software Development Life Cycle. 
 
 - 🎓 I'm Studying Computer Science & Engineering 
-- 🔭 I’m currently working Full Stack Development : SPRINGBOOT and ANGULAR !
+- 🔭 I’m currently working as a Full Stack Developer : SPRINGBOOT and ANGULAR !
 - 🌱 I’m currently learning Javascript
 - 💬 Ask me about: tech and memes
 - 😄 Pronouns: she/her
