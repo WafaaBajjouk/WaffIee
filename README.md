@@ -32,7 +32,7 @@
 
 <br />
 
-![WaffIee's github stats](https://github-readme-stats.vercel.app/api?username=WaffIee)
+<!-- ![WaffIee's github stats](https://github-readme-stats.vercel.app/api?username=WaffIee) -->
 
 
 **Languages and Technologies:**
