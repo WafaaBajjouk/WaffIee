@@ -37,6 +37,10 @@
 
 **Languages and Technologies:**
 <br/>
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaffIee)](https://github.com/WaffIee/github-readme-stats)
+        </h3>
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
