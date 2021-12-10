@@ -38,9 +38,6 @@
 **Languages and Technologies:**
 <br/>
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaffIee)](https://github.com/WaffIee/github-readme-stats)
-        </h3>
         
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaffIee&line_height=40&show_icons=true&theme=dark">
 </a>
