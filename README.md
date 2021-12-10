@@ -32,15 +32,15 @@
 
 <br />
 
-<!-- ![WaffIee's github stats](https://github-readme-stats.vercel.app/api?username=WaffIee) -->
+![WaffIee's github stats](https://github-readme-stats.vercel.app/api?username=WaffIee)
 
 
 **Languages and Technologies:**
 <br/>
 
         
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaffIee&line_height=40&show_icons=true&theme=dark">
-</a>
+<!--  <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaffIee&line_height=40&show_icons=true&theme=dark">
+</a> -->
 
 <p float="left">
  <a href="https://www.java.com/">
