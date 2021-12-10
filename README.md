@@ -41,6 +41,10 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WaffIee)](https://github.com/WaffIee/github-readme-stats)
         </h3>
+        
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=WaffIee&line_height=40&show_icons=true&theme=dark">
+</a>
+
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
