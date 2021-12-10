@@ -32,15 +32,14 @@
 
 <br />
 
-![WaffIee's github stats](https://github-readme-stats.vercel.app/api?username=WaffIee&theme=dark)
+<!-- ![WaffIee's github stats](https://github-readme-stats.vercel.app/api?username=WaffIee&theme=dark) -->
 
-<a href="https://github.com/ablaamim?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffIee&theme=dark"/>
-</a>
 
 **Languages and Technologies:**
 <br/>
-
+<a href="https://github.com/ablaamim?tab=repositories">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffIee&theme=dark"/>
+</a>
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
