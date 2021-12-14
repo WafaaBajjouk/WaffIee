@@ -28,7 +28,7 @@
 <a href="mailto:bajjouk.wafaa.12@gmail.com">
   <img align="left" alt="Wafaa's Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
- 
+  
 
 <br />
 
