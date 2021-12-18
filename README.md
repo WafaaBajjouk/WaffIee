@@ -5,7 +5,7 @@
 
 - 🎓 I'm Studying Computer Science & Engineering 
 - 🔭 I’m currently working as a Full Stack Developer : SPRINGBOOT and ANGULAR !
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript 
 - 💬 Ask me about: tech and memes
 - 😄 Pronouns: she/her
 
