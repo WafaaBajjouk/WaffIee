@@ -100,9 +100,6 @@
   </a>
 </p>
 
-(in the last 365 days, languages pie based on number of commits)
-![](./profile-3d-contrib/profile-green-animate.svg)
-
 ##
 <a href="https://wafflle.netlify.app">
 💬 Find me [elsewhere on the internet]().</a>
