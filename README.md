@@ -14,8 +14,7 @@
 
 **Contact me :** 
 
-<br/>
-<br/>
+
 <a href="https://github.com/WaffIee">
   <img align="left" alt="Wafaa Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />
 </a>
