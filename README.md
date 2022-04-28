@@ -11,23 +11,21 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/bajjoukwafaa/">
-  <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-
-<a href="">
-  <img align="left" alt="Wafaa's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-
 
 **Contact me :** 
 <br/>
 <a href="https://github.com/WaffIee">
   <img align="left" alt="Wafaa Twitter" width="22px" src="https://img.icons8.com/fluency/48/000000/twitter.png" />
 </a>
+
 <a href="mailto:bajjouk.wafaa.12@gmail.com">
   <img align="left" alt="Wafaa's Email" width="22px" src="https://img.icons8.com/color/48/000000/gmail-new.png"/>
 </a>
+
+<a href="https://www.linkedin.com/in/bajjoukwafaa/">
+  <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
+</a>
+
   
 
 <br /> 
