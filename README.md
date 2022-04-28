@@ -26,7 +26,7 @@
 <a href="https://www.linkedin.com/in/bajjoukwafaa/">
   <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
-<br/>
+<br/><br/>
 
 **Languages and Technologies:**
 <br/>
