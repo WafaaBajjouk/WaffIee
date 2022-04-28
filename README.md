@@ -27,12 +27,6 @@
   <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
-  
-
-<br /> 
-
-<!-- ![WaffIee's github stats](https://github-readme-stats.vercel.app/api?username=WaffIee&theme=dark) -->
-
 
 **Languages and Technologies:**
 <br/>
