@@ -38,9 +38,14 @@
 **Languages and Technologies:**
 <br/>
 <br/>
-<a href="https://github.com/ablaamim?tab=repositories">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffIee&theme=dark"/>
-</a>
+
+<div align="center">
+  <a href="https://github.com/IzaacBaptista">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaffIee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaffIee&layout=compact&langs_count=6&theme=dark"/>
+</div>
+  
+  
 <p float="left">
  <a href="https://www.java.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/7kaq.png" width="40">
