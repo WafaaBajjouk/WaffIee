@@ -27,7 +27,7 @@
   <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
-
+<div>
 **Languages and Technologies:**
 <br/>
 <br/>
@@ -88,7 +88,6 @@
  <a href="https://code.visualstudio.com/">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/saxu.png" width="40">
   </a>
- 
 
 <a href="https://www.adobe.com/products/photoshop.html">
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/k176.png" width="40">
@@ -97,7 +96,7 @@
 <img alt="Wafaa" src="https://devstickers.com/assets/img/pro/y4b0.png" width="40">
   </a>
 </p>
-
+</div
 ##
 <a href="https://wafflle.netlify.app">
 💬 Find me [elsewhere on the internet]().</a>
