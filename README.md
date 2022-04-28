@@ -27,11 +27,11 @@
   <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://img.icons8.com/fluency/48/000000/linkedin.png" />
 </a>
 
-<div>
+
 **Languages and Technologies:**
 <br/>
 <br/>
-
+<div>
 <div align="center">
   <a href="https://github.com/IzaacBaptista">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaffIee&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
