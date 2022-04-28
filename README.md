@@ -3,14 +3,14 @@
 
 3 Years of software development experience in object oriented programming, development of Multi-Tier distributed, Enterprise applications using Java and J2EE technologies with Software Development Life Cycle.  
 
-- 🎓 I'm Studying Computer Science & Engineering 
+- 🎓 I'm Studying Big data Analysis 
 - 🔭 I’m currently working as a Full Stack Developer : SPRINGBOOT and ANGULAR !
 - 🌱 I’m currently learning Javascript 
 - 💬 Ask me about: tech and memes 
 - 😄 Pronouns: she/her
 
 <br/>
-<!-- 
+
 <a href="https://www.linkedin.com/in/bajjoukwafaa/">
   <img align="left" alt="Wafaa's Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -18,7 +18,7 @@
 <a href="">
   <img align="left" alt="Wafaa's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
 </a>
--->
+
 
 **Contact me :** 
 <br/>
